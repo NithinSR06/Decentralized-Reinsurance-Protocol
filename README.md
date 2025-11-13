@@ -162,4 +162,10 @@ mod test {
         let result = client.add_capital(&1000000);
         assert_eq!(result, 1000000);
     }
+
 }
+
+
+## Contract details
+CDSM5UJAJVB4B4L4CBEAQAGUF6CRLJFVXYDH6ZHNPXB7AF3JL5KLXEOE
+![Uploading image.png…]()
